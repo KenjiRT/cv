@@ -1,0 +1,416 @@
+.kotak {
+    width: 50vh;
+    height: 84rem;
+    background-color: rgb(0,119,119);
+    margin: 5vh;
+    border-radius: 85vh;
+}
+
+.persegipanjang {
+    width: 40vh;
+    height: 6.5vh;
+    background-color: rgb(0,68,68);
+    position: absolute;
+    left: 4.5rem;
+    bottom: 13rem;
+    box-shadow: 8px -8px rgb(0,51,51);
+}
+
+.persegipanjang2 {
+    width: 40vh;
+    height: 6.5vh;
+    background-color: rgb(0,68,68);
+    position: absolute;
+    left: 4.5rem;
+    top: 50rem;
+    box-shadow: 8px -8px rgb(0,51,51);
+}
+
+.persegipanjang3 {
+    width: 40vh;
+    height: 6.5vh;
+    background-color: rgb(0,68,68);
+    position: absolute;
+    left: 4.5rem;
+    top: 71rem;
+    box-shadow: 8px -8px rgb(0,51,51);
+}
+
+.persegipanjang4 {
+    width: 40vh;
+    height: 6.5vh;
+    background-color: rgb(0,68,68);
+    position: absolute;
+    left: 25rem;
+    top: 16rem;
+    box-shadow: 8px -8px rgb(0,51,51);
+}
+
+.persegipanjang5 {
+    width: 40vh;
+    height: 6.5vh;
+    background-color: rgb(0,68,68);
+    position: absolute;
+    left: 25rem;
+    top: 28rem;
+    box-shadow: 8px -8px rgb(0,51,51);
+}
+
+.persegipanjang6 {
+    width: 40vh;
+    height: 6.5vh;
+    background-color: rgb(0,68,68);
+    position: absolute;
+    left: 25rem;
+    top: 40rem;
+    box-shadow: 8px -8px rgb(0,51,51);
+    text-align: left;
+}
+
+.kontak {
+    position: absolute;
+    left: 6rem;
+    bottom: 13.8rem;
+    color: whitesmoke;
+    font-family: "Lucida Sans";
+}
+
+.nama {
+    font-family: "Britannic";
+    left: 25rem;
+    top: 5rem;
+    position: absolute;
+    font-size: 4rem;
+}
+
+.murid {
+    left: 25rem;
+    top: 8.7rem;
+    position: absolute;
+    font-family: "Corbel";
+    font-size: 1.2rem;
+}
+
+.telpun {
+    width: 2.5rem;
+    height: 2.5rem;
+    background-image: url(whatsapp.png);
+    background-size: 2.5rem;
+    top: 29rem;
+    left: 4rem;
+    position: absolute;
+}
+
+.email {
+    width: 2.5rem;
+    height: 2.5rem;
+    background-image: url(email.png);
+    background-size: 2.5rem;
+    top: 33rem;
+    left: 4rem;
+    position: absolute;
+}
+
+.ig {
+    width: 2.5rem;
+    height: 2.5rem;
+    background-image: url(instagram.png);
+    background-size: 2.5rem;
+    top: 37rem;
+    left: 4rem;
+    position: absolute;
+}
+
+.fesbuk {
+    width: 2.5rem;
+    height: 2.5rem;
+    background-image: url(facebook.png);
+    background-size: 2.5rem;
+    top: 41rem;
+    left: 4rem;
+    position: absolute;
+}
+
+.twit {
+    width: 2.5rem;
+    height: 2.5rem;
+    background-image: url(twitter.png);
+    background-size: 2.5rem;
+    top: 45rem;
+    left: 4rem;
+    position: absolute;
+}
+
+.notelp {
+    font-family: "Franklin Gothic Book";
+    position: absolute;
+    left: 7rem;
+    top: 29.6rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+.notelp:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.alemail {
+    font-family: "Franklin Gothic Book";
+    position: absolute;
+    left: 7rem;
+    top: 33.6rem;
+    cursor: pointer;
+}
+.alemail:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.instagram {
+    font-family: "Franklin Gothic Book";
+    position: absolute;
+    left: 7rem;
+    top: 37.6rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+.instagram:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.facebook {
+    font-family: "Franklin Gothic Book";
+    position: absolute;
+    left: 7rem;
+    top: 41.6rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+.facebook:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.twitter {
+    font-family: "Franklin Gothic Book";
+    position: absolute;
+    left: 7rem;
+    top: 45.6rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+.twitter:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.pend {
+    position: absolute;
+    font-family: "Lucida Sans";
+    color: whitesmoke;
+    left: 6rem;
+    top: 50.7rem;
+}
+
+.bulatpend {
+    position: absolute;
+    top: 53.5rem;
+    left: 3rem;
+}
+.tahunsd {
+    position: absolute;
+    font-family: "Franklin Gothic";
+    top: 54.9rem;
+    left: 5.7rem;
+    font-size: 1.2rem;
+}
+.sd {
+    position: absolute;
+    font-family: "Franklin Gothic Book";
+    top: 55rem;
+    left: 5.7rem;
+    font-size: 1.2rem;
+}
+
+.bulatpend2 {
+    position: absolute;
+    left: 3rem;
+    top: 58.5rem;
+}
+.tahunsmp {
+    position: absolute;
+    left: 5.7rem;
+    font-family: "Franklin Gothic";
+    font-size: 1.2rem;
+    top: 59.9rem;
+}
+.smp {
+    position: absolute;
+    left: 5.7rem;
+    font-size: 1.2rem;
+    font-family: "Franklin Gothic Book";
+    top: 60rem;
+}
+
+.bulatpend3 {
+    position: absolute;
+    left: 3rem;
+    top: 63.5rem;
+}
+.tahunsma {
+    position: absolute;
+    font-family: "Franklin Gothic";
+    left: 5.7rem;
+    font-size: 1.2rem;
+    top: 64.9rem;
+}
+.sma {
+    position: absolute;
+    font-family: "Franklin Gothic Book";
+    left: 5.7rem;
+    font-size: 1.2rem;
+    top: 65rem;
+}
+
+.keahlian {
+    position: absolute;
+    left: 6rem;
+    font-family: "Lucida Sans";
+    color: whitesmoke;
+    top: 71.7rem;
+}
+.bulatskill {
+    position: absolute;
+    left: 3rem;
+    top: 74.3rem;
+}
+.skill {
+    position: absolute;
+    left: 5.7rem;
+    font-family: "Franklin Gothic";
+    top: 75.7rem;
+    font-size: 1.1rem;
+}
+
+.tentang {
+    position: absolute;
+    font-family: "Lucida Sans";
+    color: whitesmoke;
+    left:  26.5rem;
+    top: 16.7rem;
+}
+.saya {
+    position: absolute;
+    font-family: "Lucida Sans";
+    color: whitesmoke;
+    left:  34rem;
+    top: 16.7rem;
+}
+.tentangsaya {
+    position: absolute;
+    font-family: "Franklin Gothic";
+    font-size: 1.1rem;
+    top: 20rem;
+    left: 25rem;
+}
+
+body {
+    background-color: cyan;
+}
+
+.pengalaman {
+    position: absolute;
+    font-family: "Lucida Sans";
+    color: whitesmoke;
+    top: 28.7rem;
+    left:  26rem;
+}
+.kerja {
+    position: absolute;
+    font-family: "Lucida Sans";
+    color: whitesmoke;
+    top: 28.7rem;
+    left:  36.4rem;
+}
+.pengalamankerja {
+    position: absolute;
+    font-size: 1.1rem;
+    font-family: "Franklin Gothic";
+    top: 32.3rem;
+    left: 27rem;
+}
+.pengalamankerja2 {
+    position: absolute;
+    font-size: 1.1rem;
+    font-family: "Franklin Gothic";
+    top: 34.3rem;
+    left: 27rem;
+
+}
+.bulatpengalamankerja {
+    position: absolute;
+    top: 32.3rem;
+    left: 24rem;
+}
+.bulatpengalamankerja2 {
+    position: absolute;
+    top: 34.3rem;
+    left: 24rem;
+}
+.tahunkerja {
+    position: absolute;
+    font-size: 1.2rem;
+    font-family: "Franklin Gothic";
+    top: 31.8rem;
+    left: 27rem;
+}
+.nomorthkerja {
+    position: absolute;
+    top: 30.5rem;
+    left: 25rem;
+}
+
+.hobi {
+    position: absolute;
+    font-family: "Lucida Sans";
+    color: whitesmoke;
+    top: 40.7rem;
+    left:  26.5rem;
+}
+.bulathobi {
+    position: absolute;
+    left: 24rem;
+    top: 42.5rem;
+}
+.bulathobi2 {
+    position: absolute;
+    left: 24rem;
+    top: 44.5rem;
+}
+.bulathobi3 {
+    position: absolute;
+    left: 24rem;
+    top: 46.5rem;
+}
+.hobi1 {
+    position: absolute;
+    font-size: 1.1rem;
+    font-family: "Franklin Gothic";
+    left: 27rem;
+    top: 42.5rem;
+}
+.hobi2 {
+    position: absolute;
+    font-size: 1.1rem;
+    font-family: "Franklin Gothic";
+    left: 27rem;
+    top: 44.5rem;
+}
+.hobi3 {
+    position: absolute;
+    font-size: 1.1rem;
+    font-family: "Franklin Gothic";
+    left: 27rem;
+    top: 46.5rem;
+}
